@@ -55,7 +55,7 @@ public class Run
         long delay = 0;
         long interval = 1 * 1000;
 
-        timer.scheduleAtFixedRate(task, delay, interval);
+        //timer.scheduleAtFixedRate(task, delay, interval);
     }
 
 
